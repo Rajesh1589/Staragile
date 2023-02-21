@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is my first line
+||||||| 0c61051
+=======
+this is my second line
+>>>>>>> saturday
